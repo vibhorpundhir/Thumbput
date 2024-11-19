@@ -1,1 +1,2 @@
 # Thumbput
+local
